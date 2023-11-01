@@ -41,6 +41,3 @@ If you would like to contribute, please submit a pull request for adding new fea
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 
 ---
-
-Feel free to use this project as a starting point for your own enhancements or customizations. Happy coding!
-```
