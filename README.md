@@ -24,7 +24,7 @@ Facebook Account Checker is a Python application used to verify the status of Fa
 4. Run the code:
 
    ```
-   python facebook-checker-v2.py
+   python facebook-checker.py
    ```
 
 ## Usage
